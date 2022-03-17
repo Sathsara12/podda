@@ -1,7 +1,7 @@
 ## WATCH VIDEO HOW TO DEPLOY CLICK ON YOUTUBE ICON
 
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/QU9ffSMTLoY)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UC9V5B_6sRXGfSX-n4njjWsw)
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/Sathsara12">DripsMemes</a> to mak
 
 ## Subcribe to my channel for more updates 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UC9V5B_6sRXGfSX-n4njjWsw)
 
 
 
