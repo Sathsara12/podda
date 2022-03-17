@@ -146,7 +146,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```PODDA-Z I Am Alive !!!```\n\n```Type``` *.menu* ```for commands```"
+            "value": "\n ```PODDA-Z I Am Alive !!!```\n\n```Type``` *.menu* ```for commands sopport group https://chat.whatsapp.com/GknHjjbu6auDKwUItqvbRh```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
