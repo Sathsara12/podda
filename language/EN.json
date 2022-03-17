@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Angella",
-            "RESTART_MSG": "```Angella Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown Angella",
-            "SHUTDOWN_MSG": "```Angella Shutting down 😴```",
+            "RESTART_DESC": "Restart podda-z",
+            "RESTART_MSG": "```🪔P̶O̶D̶D̶A̶ Z̶ Restarting...‍🙄️```",
+            "SHUTDOWN_DESC": "Shutdown podda-z",
+            "SHUTDOWN_MSG": "```🪔P̶O̶D̶D̶A̶ Z̶ Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -186,17 +186,17 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*🪔P̶O̶D̶D̶A̶-Z ̶SEARCHING YOUR SONG 😊*\n",
+            "UPLOADING_SONG": "\n*🪔P̶O̶D̶D̶A̶-Z̶ UPLOADING TO USE 😊 *\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=cZ3UrzArI5A&t=71s```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```🪔P̶O̶D̶D̶A̶ Z̶ DOWNLOADING 🎃...```",
+            "UPLOADING_VIDEO": "```🪔P̶O̶D̶D̶A̶ Z̶ UPLOADING🎃...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
+            "GETTING_VIDEOS": "``` 🪔P̶O̶D̶D̶A̶ Z̶ BRINGING...```",
+            "NOT_FOUND": "*🙃NOT FOUND ☹️*",
+            "SEARCHING": "*🔎🪔P̶O̶D̶D̶A̶ Z̶ SEARCHING🙃...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Takaenda 🤠```"
+            "DOWNLOADING": "```CONVERTING 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -219,11 +219,11 @@
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*Angella Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error  Subscribe cheyy https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g \n*ZIM BOT OFFICIAL GROUP* https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🧚‍♂️```",
+            "UPDATING": "```UPDATING‍😁️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*UPDATED 🙃✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*Angella Restarting*"
+            "AFTER_UPDATE": "*🪔P̶O̶D̶D̶A̶ Z̶ Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -470,7 +470,7 @@
             "SAVE_USAGE": "Reply a message and type .save or just use .save <Your note> without replying",
             "REPLY": "Please provide a note or reply to a message.",
             "SUCCESSFULLY_ADDED": "Successfully added new note, check your notes with .notes.",
-            "UNSUCCESSFUL": "Could not add note, please try again later or contact Angella developers.",
+            "UNSUCCESSFUL": "Could not add note, please try again later or contact podda-z developers.",
             "DELETE_USAGE": "Deletes *all* your saved notes.",
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
