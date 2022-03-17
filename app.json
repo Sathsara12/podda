@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "ZIM_CODE": {
-            "description": "Asena session changed! Type your Angella code here.",
+            "description": "Asena session changed! Type your podda-z code here.",
             "required": true
         },
         "SUDO": {
