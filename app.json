@@ -1,14 +1,14 @@
 {
     "name": "PODDA-Z",
     "description": "PODDA-Z- Whatsapp Bot",
-    "logo": "20220316_204003.jpg",
+    "logo": "https://images.app.goo.gl/95wUcxpntqMPgr6VA",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Sathsara12/podda",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ZIM_CODE": {
+        "PODDA_CODE": {
             "description": "Asena session changed! Type your podda-z code here.",
             "required": true
         },
