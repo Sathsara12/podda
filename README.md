@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/Sathsara12">DripsMemes</a> to mak
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sathsara12/podda)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/podda-NEW-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/QUEEN-ANGELA-NEW-QR?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ### The Hard Method
 
@@ -91,7 +91,7 @@ you can contact 👇🏻👇🏻
 ```
 ## ```TAP THE WHATSAPP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
  
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/FQWYqLcXebXFsiTf9Hy4PQ)**
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/GknHjjbu6auDKwUItqvbRh)**
 
 
  
